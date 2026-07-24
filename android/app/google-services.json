@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930586136380",
+    "project_id": "potter-api-def1x",
+    "storage_bucket": "potter-api-def1x.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930586136380:android:bcf5dd9cc731de328d9839",
+        "android_client_info": {
+          "package_name": "com.def1x.potterapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUZ4Bc3J8NBxjTh7HHR5PolrWNNZgevw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
